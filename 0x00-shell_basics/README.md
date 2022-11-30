@@ -2,3 +2,4 @@
 1-listit => displays the contents list of the current directory
 2-bring_me_home => Changes the working directory to the home directory
 3-listfiles => displays the contents list of the current directory in a long format
+4-listmorefiles => Display current directory contents, including hidden files (starting with .) Using the long format.
